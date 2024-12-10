@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python**.
+- 🌱 I’m currently learning **TypeScript**.
 - 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/muhammad-yousaf-103a1331a/overlay/background-image/).
 - 📫 How to reach me: **muhammad.yousaf6239@gmail.com**
 - ⚡ Fun fact: **👨‍💻**
